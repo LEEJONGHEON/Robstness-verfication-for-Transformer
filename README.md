@@ -15,8 +15,8 @@ Robstness-verfication-for-Transformer
 
 ## Experiment
 ### Verification Data size and Data Augmenation perfomance.
-- Experiment 1 : Data size affect Transformer robustness
-- Experiment 2 : Data size fixed, Data Augmentation can raise robustness
+- Experiment 1 : Data size affect Transformer robustness?
+- Experiment 2 : Data size fixed, Data Augmentation can raise robustness?
 
 ### Verification Data Augmentation each other
 - Experiment 3 : Data Augmentation compare with each other
