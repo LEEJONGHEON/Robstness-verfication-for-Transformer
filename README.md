@@ -26,7 +26,7 @@ Robstness-verfication-for-Transformer, 关于Transformer鲁棒性研究.
 ## Conclusion
 
 # Reference
-- <a href='https://github.com/LEEJONGHEON/Adversarial-reference/blob/main/README.md'>Adversarial Reference</a>
+- <a href='https://github.com/LEEJONGHEON/Adversarial-reference/blob/main/README.md'>Adversarial Attack</a>
 - <a href='https://github.com/LEEJONGHEON/Vision-Transformer'>Vision Transformer</a>
 - <a href='https://github.com/LEEJONGHEON/Data_Augmentation/edit/main/README.md'>Data Augmentation</a>
 
